@@ -1,0 +1,1610 @@
+@media screen and (max-width: 1900px) {
+    .titlebox{
+        font-size: 280%;
+    }
+    #hobbybox{
+        height: 350px;
+        width: 350px;
+        margin: 300px 0 0 0;
+    }
+    #shadowhobby{
+        height: 346px;
+        width: 346px;
+        margin: 350px 0 0 50px;
+    }
+    #texthobby{
+        width:  396px;
+        height: 250px;
+        margin: 720px 0;
+    }
+    #hobbykind1{
+        margin-left: 250px;
+    }
+    #hobbykind2{
+        margin-left: 700px;
+    }
+    #hobbykind3{
+        margin-left: 1150px;
+    }
+}
+@media screen and (max-width: 1760px){
+    .subbody{
+        height: 3450px;
+    }
+    .design{
+        height: 1250px;
+    }
+    .page5img0{
+        margin: 0 0 0 700px;
+    }
+    .page5img1{
+        margin: 0 0 0 1010px;
+    }
+    .page5img2{
+        margin: 0 0 0 700px;
+    }
+    .page5img3{
+        margin: 750px 0 0 700px;
+    }
+}
+@media screen and (max-width: 1650px) {
+    .mainbody{
+        height: 4100px;
+    }
+    #mainbox3{
+        height: 1100px;
+    }
+    .page3pros1{
+        height: 800px;
+        width: 600px;
+        margin: 275px 0 0 15%;
+    }
+    .page3pros2{
+        height: 795px;
+        width: 595px;
+        margin: 275px 0 0 62%;
+    }
+    .page3cons1{
+        height: 795px;
+        width: 595px;
+        margin: 275px 0 0 15%;
+    }
+    
+    .page3cons2{
+        height: 800px;
+        width: 600px;
+        margin: 275px 0 0 62%;
+    }
+    .proscons{
+        margin: 900px 0 0 2%;
+    }
+    .page5img0{
+        margin: 0 0 0 650px;
+    }
+    .page5img1{
+        margin: 0 0 0 960px;
+    }
+}
+@media screen and (max-width: 1600px) {
+    .page1main h6{
+        font-size: 500%;
+    }
+    .page1main p{
+        font-size: 200%;
+    }
+    .list{
+        margin: 25% 0 0 3%;
+    }
+    .titlebox{
+        height: 250px;
+    }
+    .headerbox{
+        height: 250px;
+    }
+    .profile{
+        height: 200px;
+        width: 200px;
+    }
+    .profilebox1{
+        margin: 3% 0 0 20%;
+    }
+    .studybox{
+        height: 170px;
+        width: 190px;
+        margin: 8% 0 0 5px;
+        font-size: 100%;
+    }
+    .profile h3{
+        font-size: 170%;
+    }
+    #study{
+        margin: 12% 0 0 67%;
+    }
+    #work{
+        margin: 15% 0 0 83%;
+    }
+    .text3{
+        font-size: 80%;
+    }
+    .text4{
+        font-size: 120%;
+    }
+    .text5{
+        font-size: 100%;
+    }
+    #skill1{
+        margin: 29% 0 0 64%;
+    }
+    #skill2{
+        margin: 32% 0 0 80%;
+    }
+    .page3pros1{
+        margin: 275px 0 0 240px;
+    }
+    .page3pros2{
+        margin: 275px 0 0 900px;
+    }
+    .page3cons1{
+        margin: 275px 0 0 240px;
+    }
+    
+    .page3cons2{
+        margin: 275px 0 0 900px;
+    }
+    .wireframetext{
+        position: absolute;
+        width: 550px
+    }
+    .page5img0{
+        margin: 0 0 0 560px;
+    }
+    .page5img1{
+        margin: 0 0 0 870px;
+    }
+}
+
+@media screen and (max-width: 1550px) {
+    .page1main h6{
+        font-size: 450%;
+    }
+    .page3pros1{
+        height: 700px;
+        width: 550px;
+        margin: 290px 0 0 220px;
+    }
+    .page3pros2{
+        height: 695px;
+        width: 545px;
+        margin: 290px 0 0 800px;
+    }
+    .page3cons1{
+        height: 695px;
+        width: 545px;
+        margin: 290px 0 0 220px;
+    }
+    .page3cons2{
+        height: 700px;
+        width: 550px;
+        margin: 290px 0 0 800px;
+    }
+    #episode{
+        padding: 0 0 0 17%;
+        font-size: 110%;
+    }
+    .prosepisode{
+        font-size: 210%;
+        padding: 2% 0 0 7%;
+    }
+    .prosconsheader{
+        font-size: 900%;
+        margin: 10% 0 0 10%;
+    }
+    .proscons{
+        margin: 800px 0 0 2%;
+    }
+    #hobbykind1{
+        margin-left: 150px;
+    }
+    #hobbykind2{
+        margin-left: 600px;
+    }
+    #hobbykind3{
+        margin-left: 1050px;
+    }
+}
+
+@media screen and (max-width: 1480px) {
+    .subbody{
+        height: 4200px;
+    }
+    .wireframe{
+        height: 1300px;
+    }
+    .design{
+        height: 1500px;
+    }
+    .page5img0{
+        margin: 500px 0 0 460px;
+    }
+    .page5img1{
+        margin: 500px 0 0 770px;
+    }
+    .page5img2{
+        margin: 650px 0 0 350px;
+    }
+    .page5img3{
+        margin: 650px 0 0 600px;
+    }
+
+}
+@media screen and (max-width: 1450px) {
+    #hobbykind1{
+        margin-left: 30px;
+    }
+    #hobbykind2{
+        margin-left: 480px;
+    }
+    #hobbykind3{
+        margin-left: 930px;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    .list{display: none;}
+    .page1main{
+        margin: 10% 0 0 20%;
+    }
+    .shadowbox1{
+        margin: 15% 0 0 25%;
+    }
+    .page1main h6{
+        font-size: 400%;
+    }
+    .page1main p{
+        font-size: 225%;
+    }
+    .profilebox1{
+        height: 700px;
+        width: 550px;
+        margin: 7% 0 0 20%;
+    }
+    .profile{
+        height: 170px;
+        width: 170px;
+    }
+    .profile h3{
+        font-size: 120%;
+    }
+    .studybox{
+        height: 140px;
+        width: 160px;
+        margin: 8% 0 0 5px;
+        font-size: 90%;
+    }
+    .text3{
+        font-size: 70%;
+    }
+    .text4{
+        font-size: 100%;
+    }
+    .text5{
+        font-size: 90%;
+    }
+    .text6{
+        font-size: 120%;
+        margin: 10% 0 0 0;
+    }
+    .text7{
+        font-size: 120%;
+    }
+    .text8{
+        font-size: 120%;
+    }
+    .page3pros1{
+        height: 700px;
+        width: 550px;
+        margin: 290px 0 0 150px;
+    }
+    .page3pros2{
+        height: 695px;
+        width: 545px;
+        margin: 290px 0 0 740px;
+    }
+    .page3cons1{
+        height: 695px;
+        width: 545px;
+        margin: 290px 0 0 150px;
+    }
+    .page3cons2{
+        height: 700px;
+        width: 550px;
+        margin: 290px 0 0 740px;
+    }
+    #episode{
+        padding: 0 0 0 17%;
+        font-size: 110%;
+    }
+    .prosepisode{
+        font-size: 210%;
+        padding: 2% 0 0 7%;
+    }
+    .prosconsheader{
+        font-size: 900%;
+        margin: 10% 0 0 10%;
+    }
+    .proscons{
+        margin: 800px 0 ;
+    }
+    #page2text1{
+        font-size: 16px;
+    }
+    
+    #page2text2{
+        font-size: 12px;
+    }
+}
+@media screen and (max-width: 1350px){
+    .mainbody{
+        height: 4800px;
+    }
+    #mainbox3{
+        height: 1800px;
+    }
+    .page1main p{
+        font-size: 180%;
+    }
+    .page3pros1{
+        height: 700px;
+        width: 550px;
+        margin: 290px 0 0 160px;
+    }
+    .page3pros2{
+        height: 695px;
+        width: 545px;
+        margin: 1050px 0 0 600px;
+    }
+    .page3cons1{
+        height: 695px;
+        width: 545px;
+        margin: 290px 0 0 160px;
+    }
+    .page3cons2{
+        height: 700px;
+        width: 550px;
+        margin: 1050px 0 0 600px;
+    }
+    #episode{
+        padding: 0 0 0 17%;
+        font-size: 110%;
+    }
+    .prosepisode{
+        font-size: 210%;
+        padding: 2% 0 0 7%;
+    }
+    .prosconsheader{
+        font-size: 900%;
+        margin: 10% 0 0 10%;
+    }
+    .nonebox{
+        display: initial;
+        position: absolute;
+        width: 700px;
+        height: 1000px;
+        border: solid 10px #000;
+        margin: 500px 0 0 300px;
+    }
+    #nonecons{
+        writing-mode: vertical-rl;
+        display: table;
+        margin-top: 450px;
+        font-size: 800%;
+        height: 200px;
+        width: 20px;
+        font-family: 'Cormorant', serif;
+    }
+    #nonepros{
+        writing-mode: vertical-rl;
+        display: table;
+        margin-top: 50px;
+        font-size: 800%;
+        height: 200px;
+        width: 20px;
+        font-family: 'Cormorant', serif;
+    }
+    #nonecons p,#nonepros p{
+        margin: 0;
+        padding: 0;
+    }
+
+    .proscons{
+        display: none;
+    }
+    .kindhobby{
+        height: 100%;
+        width: 350px;
+    }
+    #hobbybox{
+        height: 300px;
+        width: 300px;
+        margin: 300px 0 0 0;
+    }
+    #shadowhobby{
+        height: 296px;
+        width: 296px;
+        margin: 350px 0 0 50px;
+    }
+    #texthobby{
+        width:  346px;
+        height: 250px;
+        margin: 720px 0;
+    }
+    #hobbykind1{
+        margin-left: 100px;
+    }
+    #hobbykind2{
+        margin-left: 500px;
+    }
+    #hobbykind3{
+        margin-left: 900px;
+    }
+    #shadowhobby h1{
+        font-size: 250%;
+    }
+    .page5img0{
+        margin: 500px 0 0 360px;
+    }
+    .page5img1{
+        margin: 500px 0 0 670px;
+    }
+    .page5img2{
+        margin: 650px 0 0 250px;
+    }
+    .page5img3{
+        margin: 650px 0 0 500px;
+    }
+}
+
+@media screen and (max-width: 1300px){
+    .profilebox1{
+        margin: 270px 0 0 10%;
+    }
+    #study{
+        margin: 300px 0 0 750px;
+    }
+    #work{
+        margin: 350px 0 0 970px;
+    }
+    #skill1{
+        margin: 520px 0 0 700px;
+    }
+    #skill2{
+        margin: 570px 0 0 920px;
+    }
+    
+}
+
+@media screen and (max-width: 1250px){
+    #hobbykind1{
+        margin-left: 50px;
+    }
+    #hobbykind2{
+        margin-left: 450px;
+    }
+    #hobbykind3{
+        margin-left: 850px;
+    }
+    .page5img0{
+        margin: 500px 0 0 100px;
+    }
+    .page5img1{
+        margin: 500px 0 0 410px;
+    }
+    .page5img2{
+        margin: 650px 0 0 100px;
+    }
+    .page5img3{
+        margin: 650px 0 0 350px;
+    }
+}
+@media screen and (max-width: 1200px){
+    .page1main h6{
+        font-size: 350%;
+    }
+    .page1main{
+        height: 400px;
+        width: 700px;
+        margin: 320px 0 0 160px;
+    }
+    .shadowbox1{
+        height: 400px;
+        width: 700px;
+        margin: 390px 0 0 230px;
+    }
+    .page1main p{
+        font-size: 170%;
+    }  
+    
+    .page3pros1{
+        height: 700px;
+        width: 550px;
+        margin: 290px 0 0 50px;
+    }
+    .page3pros2{
+        height: 695px;
+        width: 545px;
+        margin: 1050px 0 0 490px;
+    }
+    .page3cons1{
+        height: 695px;
+        width: 545px;
+        margin: 290px 0 0 50px;
+    }
+    .page3cons2{
+        height: 700px;
+        width: 550px;
+        margin: 1050px 0 0 490px;
+    }
+    #episode{
+        padding: 0 0 0 17%;
+        font-size: 110%;
+    }
+    .prosepisode{
+        font-size: 210%;
+        padding: 2% 0 0 7%;
+    }
+    .prosconsheader{
+        font-size: 900%;
+        margin: 10% 0 0 10%;
+    }
+    .nonebox{
+        display: initial;
+        position: absolute;
+        width: 700px;
+        height: 1000px;
+        border: solid 10px #000;
+        margin: 500px 0 0 190px;
+    }
+    #nonecons{
+        writing-mode: vertical-rl;
+        display: table;
+        margin-top: 450px;
+        font-size: 800%;
+        height: 200px;
+        width: 20px;
+        font-family: 'Cormorant', serif;
+    }
+    #nonepros{
+        writing-mode: vertical-rl;
+        display: table;
+        margin-top: 50px;
+        font-size: 800%;
+        height: 200px;
+        width: 20px;
+        font-family: 'Cormorant', serif;
+    }
+    #nonecons p,#nonepros p{
+        margin: 0;
+        padding: 0;
+    }
+    .proscons{
+        display: none;
+    }
+    .kindhobby{
+        height: 100%;
+        width: 300px;
+    }
+    #hobbybox{
+        height: 250px;
+        width: 250px;
+        margin: 350px 0 0 0;
+    }
+    #shadowhobby{
+        height: 246px;
+        width: 246px;
+        margin: 400px 0 0 50px;
+    }
+    #texthobby{
+        width:  294px;
+        height: 230px;
+        margin: 700px 0;
+    }
+    #hobbykind1{
+        margin-left: 100px;
+    }
+    #hobbykind2{
+        margin-left: 450px;
+    }
+    #hobbykind3{
+        margin-left: 800px;
+    }
+    .hobby p{
+        font-size: 110%;
+    }
+}
+@media screen and (max-width: 1150px){
+    .mainbody{
+        height: 5300px;
+    }
+    #mainbox2{
+        height: 1500px;
+    }
+    .profilebox1{
+        margin: 270px 0 0 25%;
+    }
+    #study{
+        margin: 1000px 0 0  35%;
+    }
+    #work{
+        margin: 1050px 0 0 60%;
+    }
+    #skill1{
+        margin: 1220px 0 0 30%;
+    }
+    #skill2{
+        margin: 1270px 0 0 55%;
+    }
+}
+@media screen and (max-width: 1100px){
+    .mainbody{
+        height: 6100px;
+    }
+    #mainbox3{
+        height: 1600px;
+    }
+    #mainbox4{
+        height: 2000px;
+    }
+    .page1main h6{
+        font-size: 300%;
+    }
+    .page1main{
+        height: 400px;
+        width: 700px;
+        margin: 320px 0 0 160px;
+    }
+    .shadowbox1{
+        height: 400px;
+        width: 700px;
+        margin: 390px 0 0 230px;
+    }
+    .page1main p{
+        font-size: 170%;
+    }
+
+    .page3pros1{
+        height: 600px;
+        width: 450px;
+    }
+    .page3pros2{
+        height: 595px;
+        width: 445px;
+        margin: 950px 0 0 490px;
+    }
+    .page3cons1{
+        height: 595px;
+        width: 445px;
+    }
+    .page3cons2{
+        height: 600px;
+        width: 450px;
+        margin: 950px 0 0 490px;
+    }
+    #episode{
+        padding: 0 0 0 17%;
+        font-size: 90%;
+    }
+    .prosepisode{
+        font-size: 150%;
+        padding: 2% 0 0 7%;
+    }
+    .prosconsheader{
+        font-size: 880%;
+        margin: 5% 0 0 10%;
+    }
+    .prostitle{
+        font-size: 180%;
+        margin: 14% 0 12% 5%;
+    }
+    .nonebox{
+        display: initial;
+        position: absolute;
+        width: 600px;
+        height: 800px;
+        border: solid 10px #000;
+        margin: 500px 0 0 190px;
+    }
+    #nonecons{
+        writing-mode: vertical-rl;
+        display: table;
+        margin-top: 250px;
+        font-size: 800%;
+        height: 200px;
+        width: 20px;
+        font-family: 'Cormorant', serif;
+    }
+    #nonepros{
+        writing-mode: vertical-rl;
+        display: table;
+        margin-top: 50px;
+        font-size: 800%;
+        height: 200px;
+        width: 20px;
+        font-family: 'Cormorant', serif;
+    }
+    .kindhobby{
+        height: 100%;
+        width: 400px;
+    }
+    #hobbybox{
+        height: 350px;
+        width: 350px;
+        margin: 300px 0 0 0;
+    }
+    #shadowhobby{
+        height: 346px;
+        width: 346px;
+        margin: 350px 0 0 50px;
+    }
+    #texthobby{
+        width:  396px;
+        height: 250px;
+        margin: 750px 0;
+    }
+    #hobbykind1{
+        margin-left: 100px;
+    }
+    #hobbykind2{
+        margin: 450px 0 0 600px;
+        height: 1000px;
+    }
+    #hobbykind3{
+        margin: 900px 0 0 100px;
+        height: 1100px;
+    }
+    .hobby p{
+        font-size: 120%;
+    }
+    #shadowhobby h1{
+        font-size: 300%;
+    }
+}
+@media screen and (max-width: 1050px){
+    .subbody{
+        height: 4650px;
+    }
+    .design{
+        height: 1900px;
+    }
+    .page5img2{
+        margin: 650px 0 0 100px;
+    }
+    .page5img3{
+        margin: 1400px 0 0 100px;
+    }
+}
+@media screen and (max-width: 1000px){
+    .mainbody{
+        height: 5900px;
+    }
+    #mainbox4{
+        height: 1800px;
+    }
+    .page1main{
+        height: 400px;
+        width: 700px;
+        margin: 320px 0 0 100px;
+    }
+    .shadowbox1{
+        height: 400px;
+        width: 700px;
+        margin: 390px 0 0 170px;
+    }
+    .page3pros1{
+        height: 600px;
+        width: 450px;
+    }
+    .page3pros2{
+        height: 595px;
+        width: 445px;
+        margin: 950px 0 0 420px;
+    }
+    .page3cons1{
+        height: 595px;
+        width: 445px;
+    }
+    .page3cons2{
+        height: 600px;
+        width: 450px;
+        margin: 950px 0 0 420px;
+    }
+    #episode{
+        padding: 0 0 0 17%;
+        font-size: 90%;
+    }
+    .prosepisode{
+        padding: 2% 0 0 7%;
+    }
+    .prosconsheader{
+        font-size: 880%;
+        margin: 5% 0 0 10%;
+    }
+    .prostitle{
+        font-size: 180%;
+        margin: 14% 0 12% 5%;
+    }
+    .nonebox{
+        display: initial;
+        position: absolute;
+        width: 600px;
+        height: 800px;
+        border: solid 10px #000;
+        margin: 500px 0 0 160px;
+    }
+    #nonecons{
+        writing-mode: vertical-rl;
+        display: table;
+        margin-top: 250px;
+        font-size: 800%;
+        height: 200px;
+        width: 20px;
+        font-family: 'Cormorant', serif;
+    }
+    #nonepros{
+        writing-mode: vertical-rl;
+        display: table;
+        margin-top: 50px;
+        font-size: 800%;
+        height: 200px;
+        width: 20px;
+        font-family: 'Cormorant', serif;
+    }
+
+    .kindhobby{
+        height: 100%;
+        width: 350px;
+    }
+    #hobbybox{
+        height: 300px;
+        width: 300px;
+        margin: 300px 0 0 0;
+    }
+    #shadowhobby{
+        height: 296px;
+        width: 296px;
+        margin: 350px 0 0 50px;
+    }
+    #texthobby{
+        width:  346px;
+        height: 250px;
+        margin: 700px 0;
+    }
+    #hobbykind1{
+        margin-left: 100px;
+    }
+    #hobbykind2{
+        margin: 400px 0 0 550px;
+        height: 1000px;
+    }
+    #hobbykind3{
+        margin: 800px 0 0 100px;
+        height: 1000px;
+    }
+    .hobby p{
+        font-size: 120%;
+    }
+    #shadowhobby h1{
+        font-size: 250%;
+    }
+}
+
+@media screen and (max-width: 950px){
+    .titlebox{
+        height: 250px;
+    }
+    .headerbox{
+        height: 250px;
+    }
+    .page1main{
+        height: 400px;
+        width: 700px;
+        margin: 320px 0 0 50px;
+    }
+    .shadowbox1{
+        height: 400px;
+        width: 700px;
+        margin: 390px 0 0 120px;
+    }
+    .page1main p{
+        font-size: 165%;
+    }
+    .profilebox1{
+        margin: 270px 0 0 150px;
+    }
+    #study{
+        margin: 1000px 0 0  250px;
+    }
+    #work{
+        margin: 1050px 0 0 470px;
+    }
+    #skill1{
+        margin: 1220px 0 0 200px;
+    }
+    #skill2{
+        margin: 1270px 0 0 420px;
+    }
+    #hobbykind2{
+        margin: 400px 0 0 500px;
+        height: 1000px;
+    }
+}
+@media screen and (max-width: 920px){
+    .wireframetext li{
+        margin: 0 0 50px 30px;
+    }
+    .page5img0{
+        margin: 500px 0 0 30px;
+    }
+    .page5img1{
+        margin: 500px 0 0 350px;
+    }
+}
+@media screen and (max-width: 900px){
+    .mainbody{
+        height: 5750px;
+    }
+    #mainbox4{
+        height: 1650px;
+    }
+    .profilebox1{
+        margin: 270px 0 0 50px;
+    }
+    #study{
+        margin: 1000px 0 0  150px;
+    }
+    #work{
+        margin: 1050px 0 0 370px;
+    }
+    #skill1{
+        margin: 1220px 0 0 100px;
+    }
+    #skill2{
+        margin: 1270px 0 0 320px;
+    }
+    .page3pros1{
+        height: 600px;
+        width: 450px;
+        margin: 290px 0 0 10px;
+    }
+    .page3pros2{
+        height: 595px;
+        width: 445px;
+        margin: 950px 0 0 380px;
+    }
+    .page3cons1{
+        height: 595px;
+        width: 445px;
+        margin: 290px 0 0 10px;
+    }
+    .page3cons2{
+        height: 600px;
+        width: 450px;
+        margin: 950px 0 0 380px;
+    }
+    #episode{
+        padding: 0 0 0 17%;
+        font-size: 90%;
+    }
+    .prosepisode{
+        padding: 2% 0 0 7%;
+    }
+    .prosconsheader{
+        font-size: 880%;
+        margin: 5% 0 0 10%;
+    }
+    .prostitle{
+        font-size: 180%;
+        margin: 14% 0 12% 5%;
+    }
+    .nonebox{
+        display: initial;
+        position: absolute;
+        width: 600px;
+        height: 800px;
+        border: solid 10px #000;
+        margin: 500px 0 0 120px;
+    }
+    #nonecons{
+        writing-mode: vertical-rl;
+        display: table;
+        margin-top: 250px;
+        font-size: 800%;
+        height: 200px;
+        width: 20px;
+        font-family: 'Cormorant', serif;
+    }
+    #nonepros{
+        writing-mode: vertical-rl;
+        display: table;
+        margin-top: 50px;
+        font-size: 800%;
+        height: 200px;
+        width: 20px;
+        font-family: 'Cormorant', serif;
+    }
+
+    .kindhobby{
+        height: 100%;
+        width: 300px;
+    }
+    #hobbybox{
+        height: 250px;
+        width: 250px;
+        margin: 300px 0 0 0;
+    }
+    #shadowhobby{
+        height: 246px;
+        width: 246px;
+        margin: 350px 0 0 50px;
+    }
+    #texthobby{
+        width:  296px;
+        height: 200px;
+        margin: 620px 0;
+    }
+    #hobbykind1{
+        margin-left: 100px;
+    }
+    #hobbykind2{
+        margin: 330px 0 0 500px;
+        height: 1000px;
+    }
+    #hobbykind3{
+        margin: 650px 0 0 100px;
+        height: 1000px;
+    }
+    .hobby p{
+        font-size: 100%;
+    }
+    #shadowhobby h1{
+        font-size: 200%;
+    }
+    .background h4{
+        margin: 50px 0 0 30px;
+    
+    }
+    .background p{
+        margin-left:30px;
+    }
+    .imagesentence h4{
+        margin: 8px 0 0 30px;
+    }
+    .imagesentence p{
+        margin-left: 30px;
+    }
+}
+
+@media screen and (max-width: 850px){
+    .page1main{
+        width: 600px;
+        margin: 40% 0 0 35px;
+        border: solid 25px #000;
+    }
+    .shadowbox1{
+       width: 600px;
+       margin: 47% 0 0 105px;
+    }
+    .page1main h6{
+        font-size: 350%;
+        padding-bottom: 40px;
+    }
+
+    .page3pros1{
+        height: 600px;
+        width: 450px;
+    }
+    .page3pros2{
+        height: 595px;
+        width: 445px;
+        margin: 950px 0 0 310px;
+    }
+    .page3cons1{
+        height: 595px;
+        width: 445px;
+    }
+    .page3cons2{
+        height: 600px;
+        width: 450px;
+        margin: 950px 0 0 310px;
+    }
+    #episode{
+        padding: 0 0 0 17%;
+        font-size: 90%;
+    }
+    .prosepisode{
+        padding: 2% 0 0 7%;
+    }
+    .prosconsheader{
+        font-size: 880%;
+        margin: 5% 0 0 10%;
+    }
+    .prostitle{
+        font-size: 180%;
+        margin: 14% 0 12% 5%;
+    }
+    .nonebox{
+        display: initial;
+        position: absolute;
+        width: 600px;
+        height: 800px;
+        border: solid 10px #000;
+        margin: 500px 0 0 75px;
+    }
+    #nonecons{
+        writing-mode: vertical-rl;
+        display: table;
+        margin-top: 250px;
+        font-size: 800%;
+        height: 200px;
+        width: 20px;
+        font-family: 'Cormorant', serif;
+    }
+    #nonepros{
+        writing-mode: vertical-rl;
+        display: table;
+        margin-top: 50px;
+        font-size: 800%;
+        height: 200px;
+        width: 20px;
+        font-family: 'Cormorant', serif;
+    }
+    .kindhobby{
+        height: 100%;
+        width: 300px;
+    }
+    #hobbybox{
+        height: 250px;
+        width: 250px;
+        margin: 300px 0 0 0;
+    }
+    #shadowhobby{
+        height: 246px;
+        width: 246px;
+        margin: 350px 0 0 50px;
+    }
+    #texthobby{
+        width:  296px;
+        height: 200px;
+        margin: 620px 0;
+    }
+    #hobbykind1{
+        margin-left: 100px;
+    }
+    #hobbykind2{
+        margin: 330px 0 0 450px;
+        height: 1000px;
+    }
+    #hobbykind3{
+        margin: 650px 0 0 100px;
+        height: 1000px;
+    }
+    .hobby p{
+        font-size: 100%;
+    }
+    #shadowhobby h1{
+        font-size: 200%;
+    }
+    .designtext{
+        width: 580px;
+    }
+}
+@media screen and (max-width: 840px){
+    .subbody{
+        height: 5150px;
+    }
+    .wireframe{
+        height: 2000px;
+    }
+    .page5img0{
+        margin: 450px 0 0 180px;
+    }
+    .page5img1{
+        margin: 1200px 0 0 180px;
+    }
+}
+@media screen and (max-width: 800px){
+    .mainbody{
+        height: 7950px;
+    }
+    #mainbox3{
+        height: 2800px;
+    }
+    #mainbox4{
+        height: 2650px;
+    }
+    .page3pros1{
+        height: 600px;
+        width: 450px;
+        margin: 290px 0 0 50px;
+    }
+    .page3pros2{
+        height: 595px;
+        width: 445px;
+        margin: 900px 0 0 230px;
+    }
+    .page3cons1{
+        height: 595px;
+        width: 445px;
+        margin: 2160px 0 0 230px;
+    }
+    .page3cons2{
+        height: 600px;
+        width: 450px;
+        margin: 1550px 0 0 50px;
+    }
+    #episode{
+        padding: 0 0 0 17%;
+        font-size: 90%;
+    }
+    .prosepisode{
+        padding: 2% 0 0 7%;
+    }
+    .prosconsheader{
+        font-size: 880%;
+        margin: 5% 0 0 10%;
+    }
+    .prostitle{
+        font-size: 180%;
+        margin: 14% 0 12% 5%;
+    }
+    .nonebox{
+        display: none;
+    }
+
+    .kindhobby{
+        height: 100%;
+        width: 400px;
+    }
+    #hobbybox{
+        height: 350px;
+        width: 350px;
+        margin: 300px 0 0 0;
+    }
+    #shadowhobby{
+        height: 346px;
+        width: 346px;
+        margin: 350px 0 0 50px;
+    }
+    #texthobby{
+        width:  396px;
+        height: 250px;
+        margin: 750px 0;
+    }
+    #hobbykind1{
+        margin-left: 100px;
+    }
+    #hobbykind2{
+        margin: 800px 0 0 300px;
+        height: 1200px;
+    }
+    #hobbykind3{
+        margin: 1600px 0 0 100px;
+        height: 1000px;
+    }
+    .hobby p{
+        font-size: 120%;
+    }
+    #shadowhobby h1{
+        font-size: 300%;
+    }
+}
+
+@media screen and (max-width: 750px){
+    .page1main{
+        width: 550px;
+        margin: 350px 0 0 30px;
+        border: solid 25px #000;
+    }
+    .shadowbox1{
+       width: 550px;
+       margin: 420px 0 0 100px;
+    }
+    .page1main h6{
+        font-size: 300%;
+    }
+    #hobbykind2{
+        margin: 800px 0 0 250px;
+        height: 1200px;
+    }
+    .designtext{
+        width: 480px;
+    }
+    .designtext li{
+        margin: 0 0 50px 0;
+    }
+    .page5img2{
+        margin: 650px 0 0 30px;
+    }
+    .page5img3{
+        margin: 1400px 0 0 30px;
+    }
+    .wireframetext{
+        width: 480px;
+        margin: 0 0 50px 0;
+    }
+    .wireframetext li{
+        font-size: 19px;
+    }
+    .page5img0{
+        margin: 450px 0 0 100px;
+    }
+    .page5img1{
+        margin: 1200px 0 0 100px;
+    }
+    .background h4{
+        font-size: 24px;
+    
+    }
+    .background p{
+        font-size: 19px;
+    }
+    .imagesentence h4{
+        font-size: 24px;
+    }
+    .imagesentence p{
+        font-size: 19px;
+    }
+}
+
+@media screen and (max-width: 700px){
+    .page1main{
+        margin: 350px 0 0 0;
+    }
+    .shadowbox1{
+        margin: 405px 0 0 55px;
+    }
+    .page3pros1{
+        height: 600px;
+        width: 450px;
+    }
+    .page3pros2{
+        height: 595px;
+        width: 445px;
+        margin: 900px 0 0 180px;
+    }
+    .page3cons1{
+        height: 595px;
+        width: 445px;
+        margin: 2160px 0 0 180px;
+    }
+    .page3cons2{
+        height: 600px;
+        width: 450px;
+        
+    }
+    #hobbykind2{
+        margin: 800px 0 0 200px;
+        height: 1200px;
+    }
+}
+
+@media screen and (max-width: 650px){
+    .page1main{
+        margin: 350px 0 0 4%;
+        width: 450px;
+        height: 300px;
+    }
+    .shadowbox1{
+        margin: 410px 0 0 15%;
+        width: 450px;
+        height: 300px;
+    }
+    .page1main h6{
+        font-size: 260%;
+        padding: 0;
+    }
+    .page1main p{
+        font-size: 130%;
+    }
+    .titlebox{
+        font-size: 200%;
+        height: 200px;
+    }
+    .headerbox{
+        height: 200px;
+    }
+    .profilebox1{
+        margin: 270px 0;
+    }
+    #study{
+        margin: 1000px 0 0  100px;
+    }
+    #work{
+        margin: 1050px 0 0 320px;
+    }
+    #skill1{
+        margin: 1220px 0 0 50px;
+    }
+    #skill2{
+        margin: 1270px 0 0 270px;
+    }
+    .page3pros1{
+        height: 600px;
+        width: 450px;
+    }
+    .page3pros2{
+        height: 595px;
+        width: 445px;
+        margin: 900px 0 0 130px;
+    }
+    .page3cons1{
+        height: 595px;
+        width: 445px;
+        margin: 2160px 0 0 130px;
+    }
+    .page3cons2{
+        height: 600px;
+        width: 450px;
+    }
+    #hobbykind2{
+        margin: 800px 0 0 150px;
+        height: 1200px;
+    }
+    .wireframe{
+        width: 500px;
+        margin: 75px 0 0 30px;
+    }
+    .design{
+        width: 500px;
+        margin: 75px 0 0 30px;
+    }
+    .image{
+        width: 500px;
+        margin: 75px 0 0 30px;
+    }
+    .background{
+        width: 500px;
+        margin: 75px 0 0 30px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .page1main{
+        width: 410px;
+    }
+    .shadowbox1{
+        width: 410px;
+    }
+    .page1main h6{
+        font-size: 240%;
+    }
+    .page1main p{
+        font-size: 120%;
+        margin: 0 0 0 7%;
+    }
+    .page3pros1{
+        height: 600px;
+        width: 450px;
+    }
+    .page3pros2{
+        height: 595px;
+        width: 445px;
+        margin: 900px 0 0 80px;
+    }
+    .page3cons1{
+        height: 595px;
+        width: 445px;
+        margin: 2160px 0 0 80px;
+    }
+    .page3cons2{
+        height: 600px;
+        width: 450px;
+    }
+    #hobbykind2{
+        margin: 800px 0 0 100px;
+        height: 1200px;
+    }
+}
+
+@media screen and (max-width: 550px){
+    .page1main{
+        width: 380px;
+    }
+    .shadowbox1{
+        width: 380px;
+    }
+    .page1main p{
+        font-size: 110%;
+    }
+    .profilebox1{
+        height: 650px;
+        width: 475px;
+    }
+    .profilebox3 h1{
+        font-size: 500%;
+    }
+    #study{
+        margin: 1000px 0 0  70px;
+    }
+    #work{
+        margin: 1050px 0 0 290px;
+    }
+    #skill1{
+        margin: 1220px 0 0 20px;
+    }
+    #skill2{
+        margin: 1270px 0 0 240px;
+    }
+    .page3pros1{
+        height: 600px;
+        width: 450px;
+        margin: 290px 0 0 20px
+    }
+    .page3pros2{
+        height: 595px;
+        width: 445px;
+        margin: 900px 0 0 20px
+    }
+    .page3cons1{
+        height: 595px;
+        width: 445px;
+        margin: 2160px 0 0 20px
+    }
+    .page3cons2{
+        height: 600px;
+        width: 450px;
+        margin: 1550px 0 0 20px
+    }
+    #hobbykind1{
+        margin-left: 50px;
+    }
+    #hobbykind2{
+        margin: 800px 0 0 50px;
+        height: 1200px;
+    }
+    #hobbykind3{
+        margin: 1600px 0 0 50px;
+        height: 1000px;
+    }
+    .image{
+        width: 460px;
+        margin: 75px 0 0 10px;
+    }
+    .background{
+        width: 460px;
+        margin: 75px 0 0 10px;
+    }
+    .design{
+        width: 460px;
+        margin: 75px 0 0 10px;
+    }
+    .wireframe{
+        width: 460px;
+        margin: 75px 0 0 10px;
+    }
+    .designtext{
+        width: 450px;
+    }
+    .designtext li{
+        margin: 0 0 50px 0;
+        font-size: 18px;
+    }
+    .wireframetext{
+        width: 450px;
+    }
+    .wireframetext li{
+        font-size: 18px;
+    }
+    .page5img2{
+        margin: 650px 0 0 5px;
+    }
+    .page5img3{
+        margin: 1400px 0 0 5px;
+    }
+    #page2text1{
+        font-size: 14px;
+    }
+    
+    #page2text2{
+        font-size: 10px;
+    }
+}
