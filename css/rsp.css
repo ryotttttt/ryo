@@ -1608,3 +1608,19 @@
         font-size: 10px;
     }
 }
+
+@media screen and (max-width: 450px){
+    .hamburger{
+        height: 100px;
+        width: 100px;
+    }
+    
+    .hamburger2{
+        height: 100px;
+        width: 100px;
+    }
+
+    navlist li{
+        font-size: 30px;
+    }
+}
