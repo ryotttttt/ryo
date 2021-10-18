@@ -508,7 +508,7 @@
 }
 @media screen and (max-width: 1200px){
     .page1main h6{
-        font-size: 400%;
+        font-size: 350%;
     }
     .page1main{
         height: 400px;
@@ -655,7 +655,7 @@
         height: 2000px;
     }
     .page1main h6{
-        font-size: 400%;
+        font-size: 300%;
     }
     .page1main{
         height: 400px;
@@ -694,7 +694,7 @@
         font-size: 90%;
     }
     .prosepisode{
-        font-size: 200%;
+        font-size: 150%;
         padding: 2% 0 0 7%;
     }
     .prosconsheader{
@@ -822,7 +822,6 @@
         font-size: 90%;
     }
     .prosepisode{
-        font-size: 200%;
         padding: 2% 0 0 7%;
     }
     .prosconsheader{
@@ -996,7 +995,6 @@
         font-size: 90%;
     }
     .prosepisode{
-        font-size: 200%;
         padding: 2% 0 0 7%;
     }
     .prosconsheader{
@@ -1123,7 +1121,6 @@
         font-size: 90%;
     }
     .prosepisode{
-        font-size: 200%;
         padding: 2% 0 0 7%;
     }
     .prosconsheader{
@@ -1249,7 +1246,6 @@
         font-size: 90%;
     }
     .prosepisode{
-        font-size: 200%;
         padding: 2% 0 0 7%;
     }
     .prosconsheader{
