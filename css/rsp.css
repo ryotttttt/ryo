@@ -1620,7 +1620,7 @@
         width: 100px;
     }
 
-    navlist li{
+    .navlist li{
         font-size: 30px;
     }
 }
