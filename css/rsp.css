@@ -767,6 +767,20 @@
     #shadowhobby h1{
         font-size: 300%;
     }
+
+    .hamburger{
+        height: 100px;
+        width: 100px;
+    }
+    
+    .hamburger2{
+        height: 100px;
+        width: 100px;
+    }
+
+    .navlist li{
+        font-size: 30px;
+    }
 }
 @media screen and (max-width: 1050px){
     .subbody{
@@ -1609,7 +1623,7 @@
     }
 }
 
-@media screen and (max-width: 450px){
+@media screen and (max-width: 500px){
     .hamburger{
         height: 100px;
         width: 100px;
