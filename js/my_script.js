@@ -154,11 +154,21 @@ function rsp(){
   $(".page3cons1").css('margin','2160px 0 0 80px')
   $(".page3pros2").css('margin','900px 0 0 80px')
   $(".page3cons2").css('margin','1550px 0 0 50px')
-}else if (window.matchMedia('(min-width: 1px)').matches) {
+}else if (window.matchMedia('(min-width: 421px)').matches) {
   $(".page3pros1").css('margin','290px 0 0 20px')
   $(".page3cons1").css('margin','2160px 0 0 20px')
   $(".page3pros2").css('margin','900px 0 0 20px')
   $(".page3cons2").css('margin','1550px 0 0 20px')
+}else if (window.matchMedia('(min-width: 281px)').matches) {
+  $(".page3pros1").css('margin','290px auto 0 auto')
+  $(".page3cons1").css('margin','1760px auto 0 auto')
+  $(".page3pros2").css('margin','750px auto 0 auto')
+  $(".page3cons2").css('margin','1300px auto 0 auto')
+}else if (window.matchMedia('(min-width: 1px)').matches) {
+  $(".page3pros1").css('margin','290px auto 0 auto')
+  $(".page3cons1").css('margin','1550px auto 0 auto')
+  $(".page3pros2").css('margin','650px auto 0 auto')
+  $(".page3cons2").css('margin','1100px auto 0 auto')
 }
 }
 

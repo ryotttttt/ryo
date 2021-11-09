@@ -1760,10 +1760,10 @@
 
 @media screen and (max-width: 320px){
     .mainbody{
-        height: 6600px;
+        height: 6850px;
     }
     #mainbox3{
-        height: 2000px;
+        height: 2250px;
     }
 
     .page1main{
@@ -1779,22 +1779,18 @@
     .page3pros1{
         height: 420px;
         width: 310px;
-        margin: 290px auto 0 auto;
     }
     .page3pros2{
         height: 420px;
         width: 310px;
-        margin: 750px auto 0 auto;
     }
     .page3cons1{
         height: 420px;
         width: 310px;
-        margin: 1760px auto 0 auto;
     }
     .page3cons2{
         height: 420px;
         width: 310px;
-        margin: 1300px auto 0 auto;
     }
     .prosconsheader{
         font-size: 720%;
@@ -1851,7 +1847,10 @@
 }
 @media screen and (max-width: 280px){
     .mainbody{
-        height: 5950px;
+        height: 5900px;
+    }
+    #mainbox3{
+        height: 1950px;
     }
     #mainbox4{
         height: 2000px;
