@@ -166,9 +166,10 @@ function rsp(){
   $(".page3cons2").css('margin','1300px auto 0 auto')
 }else if (window.matchMedia('(min-width: 1px)').matches) {
   $(".page3pros1").css('margin','290px auto 0 auto')
-  $(".page3cons1").css('margin','1550px auto 0 auto')
+  $(".page3cons1").css('margin','1500px auto 0 auto')
   $(".page3pros2").css('margin','650px auto 0 auto')
   $(".page3cons2").css('margin','1100px auto 0 auto')
+  console.log(2);
 }
 }
 
